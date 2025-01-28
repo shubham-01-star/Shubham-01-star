@@ -1,18 +1,63 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+# 👋 Hi, I'm Shubham Kumar  
 
-- 🔭 I’m currently working on **Password Manager**
+🎓 **B.Tech Graduate in Computer Science**  
+🚀 **Aspiring Software Developer | Frontend Enthusiast | Automation Tester**  
 
-- 🌱 I’m currently learning **React.js Next.js Node.js**
+Welcome to my GitHub! I'm passionate about building user-friendly web applications and exploring the intersection of frontend and backend technologies. I thrive on solving problems, learning new tools, and collaborating with others to create impactful solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubham_kr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_kr02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-kumar-a04a191a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-a04a191a2" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shubhamkumar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubhamkumar0" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🔧 Skills & Technologies  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-01-star&show_icons=true&locale=en&layout=compact" alt="shubham-01-star" /></p>
+- **Frontend Development:** HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS, Bootstrap  
+- **Backend Development:** Node.js, RESTful APIs, MongoDB, MySQL  
+- **Testing & Automation:** Ketalon Studio, Automation Testing Principles  
+- **Tools:** GitHub, VS Code, Postman, MS Excel  
+- **Others:** SDLC, STLC, Problem Solving, Team Collaboration  
+
+---
+
+## 💼 Work Experience  
+
+- 🛠 **Automation Testing Intern** @ SMARTINTERNZ  
+  - Automated tests for Amazon.com covering user authentication, product search, and checkout workflows.  
+
+- 🌐 **Angular Full Stack Intern** @ Infosys Springboard  
+  - Developed key features for a web application and collaborated with a dynamic team to enhance user experience.  
+
+---
+
+## 📚 Projects  
+
+- **Password Manager**  
+  - Built a secure application using React.js, MongoDB, and Express.js with encryption for secure data storage.  
+
+- **Spotify UI Clone**  
+  - Designed a responsive user interface using HTML, CSS, JavaScript, and Tailwind CSS.  
+
+---
+
+## 🎯 What I’m Currently Learning  
+
+- Advanced React.js and React Native  
+- Backend frameworks like Django and Flask  
+- Scalable architecture design for web applications  
+
+---
+
+## 🌱 Fun Fact  
+
+When I’m not coding, I enjoy photography, videography, and listening to Hindi music to spark creativity!  
+
+---
+
+## 📫 Let’s Connect  
+
+- 📧 Email: shubhamkumar990201@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar/)  
+- 💻 [Portfolio](#) (Coming Soon!)  
+- 🌟 [GitHub](https://github.com/your-github-username)  
+
+---
+
+⭐ **"Keep learning, keep growing!"** ⭐
