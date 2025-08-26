@@ -1,63 +1,59 @@
 # 👋 Hi, I'm Shubham Kumar  
 
-🎓 **B.Tech Graduate in Computer Science**  
-🚀 **Aspiring Software Developer | Frontend Enthusiast | Automation Tester**  
-
-Welcome to my GitHub! I'm passionate about building user-friendly web applications and exploring the intersection of frontend and backend technologies. I thrive on solving problems, learning new tools, and collaborating with others to create impactful solutions.
-
----
-
-## 🔧 Skills & Technologies  
-
-- **Frontend Development:** HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS, Bootstrap  
-- **Backend Development:** Node.js, RESTful APIs, MongoDB, MySQL  
-- **Testing & Automation:** Ketalon Studio, Automation Testing Principles  
-- **Tools:** GitHub, VS Code, Postman, MS Excel  
-- **Others:** SDLC, STLC, Problem Solving, Team Collaboration  
+💻 **Backend Developer | Node.js • Next.js • TypeScript • APIs**  
+🚀 Passionate about building scalable apps, real-time systems & secure backends.  
+💼 Open to Remote Roles & Collaborations.  
 
 ---
 
-## 💼 Work Experience  
+## 🔧 Tech Stack  
 
-- 🛠 **Automation Testing Intern** @ SMARTINTERNZ  
-  - Automated tests for Amazon.com covering user authentication, product search, and checkout workflows.  
+- **Backend:** Node.js, Express.js, Next.js, TypeScript  
+- **Databases:** MongoDB, MySQL, TypeORM  
+- **Auth & APIs:** REST APIs, JWT, WebSocket  
+- **Frontend (Basics):** React.js, Tailwind CSS, Angular  
+- **Payments & Integrations:** Stripe API  
+- **Testing & Automation:** Katalon Studio, Postman  
+- **Tools:** Git, GitHub, Docker, VS Code  
 
-- 🌐 **Angular Full Stack Intern** @ Infosys Springboard  
-  - Developed key features for a web application and collaborated with a dynamic team to enhance user experience.  
+---
+
+## 💼 Experience  
+
+- **Freelance Backend Developer** @ Viliyo *(2024 – Present)*  
+  - Built & optimized scalable APIs (improved performance by 30%).  
+  - Implemented authentication, DB schemas & integrations.  
+
+- **Angular Full Stack Intern** @ Infosys Springboard *(2024)*  
+  - Developed features & collaborated with frontend team for seamless integration.  
+
+- **Automation Testing Intern** @ SmartInternz *(2023)*  
+  - Automated test scripts for web applications (auth, product search, checkout).  
 
 ---
 
 ## 📚 Projects  
 
-- **Password Manager**  
-  - Built a secure application using React.js, MongoDB, and Express.js with encryption for secure data storage.  
-
-- **Spotify UI Clone**  
-  - Designed a responsive user interface using HTML, CSS, JavaScript, and Tailwind CSS.  
-
----
-
-## 🎯 What I’m Currently Learning  
-
-- Advanced React.js and React Native  
-- Backend frameworks like Django and Flask  
-- Scalable architecture design for web applications  
+- 🔹 **Real-Time Event Planner** – Chat + calendar sync with WebSocket & JWT.  
+- 🔹 **Password Manager** – Secure AES-256 encrypted storage for user passwords.  
+- 🔹 **GetMeAChai (Patreon Clone)** – Implemented Stripe payment integration.  
+- 🔹 **Spotify UI Clone** – Responsive UI built with HTML, CSS, JS & Tailwind.  
 
 ---
 
-## 🌱 Fun Fact  
+## 📊 GitHub Stats  
 
-When I’m not coding, I enjoy photography, videography, and listening to Hindi music to spark creativity!  
-
----
-
-## 📫 Let’s Connect  
-
-- 📧 Email: shubhamkumar990201@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar/)  
-- 💻 [Portfolio](#) (Coming Soon!)  
-- 🌟 [GitHub](https://github.com/your-github-username)  
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-01-star&show_icons=true&theme=dark)  
 
 ---
 
-⭐ **"Keep learning, keep growing!"** ⭐
+## 📫 Connect With Me  
+
+- 📧 **Email:** shubhamkumar990201@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/shubham-kumar-a04a191a2](https://linkedin.com/in/shubham-kumar-a04a191a2)  
+- 🌍 **Portfolio:** [linktr.ee/shubham.kr02](https://linktr.ee/shubham.kr02)  
+- 💻 **GitHub:** [github.com/shubham-01-star](https://github.com/shubham-01-star)  
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”* ⭐
