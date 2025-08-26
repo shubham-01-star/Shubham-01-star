@@ -44,6 +44,10 @@
 ## 📊 GitHub Stats  
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-01-star&show_icons=true&theme=dark)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
