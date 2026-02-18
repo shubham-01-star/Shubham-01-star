@@ -20,10 +20,6 @@
 
 ## 💼 Experience  
 
-- **Freelance Backend Developer** @ Viliyo *(2024 – Present)*  
-  - Built & optimized scalable APIs (improved performance by 30%).  
-  - Implemented authentication, DB schemas & integrations.  
-
 - **Angular Full Stack Intern** @ Infosys Springboard *(2024)*  
   - Developed features & collaborated with frontend team for seamless integration.  
 
