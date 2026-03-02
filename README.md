@@ -1,113 +1,115 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shubham+Kumar;Generative+AI+Engineer+%7C+Backend+Developer;Building+Autonomous+AI+Agents;RAG+Pipelines+%7C+Scalable+Microservices;Open+to+GenAI+%26+Backend+Roles" alt="Typing Animation" /> </div>
-<div align="center">
+# 👋 Hi, I'm Shubham Kumar
 
-🚀 Generative AI Engineer & Backend Architect
-🏆 3rd Place Winner @ MotiaHack’25
-💼 Open to Backend & GenAI Engineering Roles
+## 🚀 Generative AI Engineer & Backend Developer  
+Building Autonomous AI Agents • RAG Pipelines • Scalable Microservices  
 
-</div>
-🧠 About Me
+🏆 3rd Place Winner — MotiaHack’25  
+💼 Open to Backend & GenAI Engineering Roles  
 
-I build autonomous AI systems that don’t just chat — they act.
+---
 
-My focus areas:
+## 🧠 About Me
 
-🤖 Agentic AI Systems
+I build production-ready **Agentic AI systems** that go beyond chat — they execute workflows, automate decisions, and scale reliably.
 
-🔐 Privacy-first MCP Servers
+**Core Focus Areas:**
+- Autonomous AI Agents  
+- Model Context Protocol (MCP) Systems  
+- Retrieval-Augmented Generation (RAG)  
+- Scalable Node.js Microservices  
 
-📚 RAG Pipelines
+> ⭐ “The future of software isn't just a chatbot — it's an adaptive interface generated on demand.”
 
-⚙️ Scalable Backend Microservices
+---
 
-🧠 AI + DevOps Automation
+# 🚀 Featured Projects
 
-⭐ “The future of software isn’t a chatbot. It’s an adaptive interface generated on demand.”
+## 🛡 OpsGuard — AI SRE Agent
+MotiaHack’25 Winner  
 
-⚡ Tech Arsenal
-🧠 Generative AI
+- Log monitoring & crash detection  
+- AI-suggested codebase fixes (Gemini)  
+- Human-in-the-loop validation  
+- Backend orchestration system  
 
-OpenAI • Claude • Gemini • Ollama
+---
 
-🧩 AI Frameworks
+## ⚙️ ApiforgeX — Agentic DevOps Pipeline
 
-MCP (Model Context Protocol) • Tambo AI
+Natural Language → Production-ready API  
 
-🖥 Backend
+- Backend generation from prompts  
+- Automated testing & deployment  
+- CI-integrated review workflow  
 
-Node.js • Express.js • TypeScript • JavaScript
+---
 
-🗄 Databases
+## 🧠 Cortex — Identity-Aware Generative UI
 
-PostgreSQL • MongoDB • MySQL • Redis
+- Dynamic React UI surfacing  
+- Context-aware interface generation  
+- Built with Tambo AI  
 
-🚀 DevOps
+---
 
-Docker • AWS • Kestra • Motia Framework • CI/CD • n8n
+## 🔐 PM Gateway — Privacy-First MCP Server
 
-🚀 Flagship Projects
-🛡 OpsGuard — AI SRE Agent
+- Secure local file indexing  
+- Automatic PII redaction  
+- Controlled context exposure  
 
-🏆 MotiaHack’25 Winner
+---
 
-Log monitoring & crash detection
+## 📧 HirectX Email Mining Tool
 
-AI-suggested codebase fixes (Gemini)
+- AI-based resume detection  
+- Automated candidate extraction  
+- Reduced manual workload by 40%  
 
-Human-in-the-loop validation layer
+---
 
-Production-ready backend orchestration
+# ⚡ Tech Stack
 
-⚙️ ApiforgeX — Agentic DevOps Pipeline
+**AI & LLMs:**  
+OpenAI • Claude • Gemini • Ollama  
 
-Natural Language → Production API
+**Backend:**  
+Node.js • Express • TypeScript • JavaScript  
 
-Generates backend APIs
+**Databases:**  
+PostgreSQL • MongoDB • MySQL • Redis  
 
-Auto testing + deployment
+**DevOps:**  
+Docker • AWS • Kestra • CI/CD • n8n  
 
-CI-integrated code review
+---
 
-Built using MCP + Kestra + Node.js
+# 💼 Experience
 
-🧠 Cortex — Generative UI Orchestrator
+### Backend Developer — AHOM Technologies (2025 – Present)
 
-Identity-aware UI generation
+- Built AI Email Mining & Outreach Automation System  
+- Reduced marketing workload by 40%  
+- Designed scalable microservices (Node.js + TypeORM + MySQL)  
+- Architected REST APIs  
 
-On-demand React interface surfacing
+---
 
-Powered by Tambo AI
+### Open Source Contributor — Quote.Vote
 
-🔐 PM Gateway — Privacy-first MCP Server
+- Contributing to text-only social platform  
+- Built with Next.js & GraphQL  
 
-Secure local file indexing
+---
 
-Automatic PII redaction
+# 📊 GitHub Stats
 
-Context exposure control for AI agents
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-📧 HirectX Email Mining Engine
+---
 
-Automated resume extraction
+# 📫 Connect With Me
 
-AI-based candidate detection
-
-Reduced marketing workload by 40%
-
-💼 Experience
-🏢 Backend Developer — AHOM Technologies (2025 – Present)
-
-Built AI Email Mining & Outreach Automation
-
-Reduced manual work by 40%
-
-Designed scalable microservices (Node.js + TypeORM + MySQL)
-
-Architected REST APIs for Viliyo client
-
-🌍 Open Source Contributor — Quote.Vote
-
-Contributing to text-only social platform
-
-Built with Next.js & GraphQL
+🔗 LinkedIn: https://linkedin.com/in/shubham-01-star  
+📧 Email: shubhamkumar990201@gmail.com
