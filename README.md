@@ -1,59 +1,113 @@
-# 👋 Hi, I'm Shubham Kumar  
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shubham+Kumar;Generative+AI+Engineer+%7C+Backend+Developer;Building+Autonomous+AI+Agents;RAG+Pipelines+%7C+Scalable+Microservices;Open+to+GenAI+%26+Backend+Roles" alt="Typing Animation" /> </div>
+<div align="center">
 
-💻 **Backend Developer | Node.js • Next.js • TypeScript • APIs**  
-🚀 Passionate about building scalable apps, real-time systems & secure backends.  
-💼 Open to Remote Roles & Collaborations.  
+🚀 Generative AI Engineer & Backend Architect
+🏆 3rd Place Winner @ MotiaHack’25
+💼 Open to Backend & GenAI Engineering Roles
 
----
+</div>
+🧠 About Me
 
-## 🔧 Tech Stack  
+I build autonomous AI systems that don’t just chat — they act.
 
-- **Backend:** Node.js, Express.js, Next.js, TypeScript  
-- **Databases:** MongoDB, MySQL, TypeORM  
-- **Auth & APIs:** REST APIs, JWT, WebSocket  
-- **Frontend (Basics):** React.js, Tailwind CSS, Angular  
-- **Payments & Integrations:** Stripe API  
-- **Testing & Automation:** Katalon Studio, Postman  
-- **Tools:** Git, GitHub, Docker, VS Code  
+My focus areas:
 
----
+🤖 Agentic AI Systems
 
-## 💼 Experience  
+🔐 Privacy-first MCP Servers
 
-- **Angular Full Stack Intern** @ Infosys Springboard *(2024)*  
-  - Developed features & collaborated with frontend team for seamless integration.  
+📚 RAG Pipelines
 
-- **Automation Testing Intern** @ SmartInternz *(2023)*  
-  - Automated test scripts for web applications (auth, product search, checkout).  
+⚙️ Scalable Backend Microservices
 
----
+🧠 AI + DevOps Automation
 
-## 📚 Projects  
+⭐ “The future of software isn’t a chatbot. It’s an adaptive interface generated on demand.”
 
-- 🔹 **Real-Time Event Planner** – Chat + calendar sync with WebSocket & JWT.  
-- 🔹 **Password Manager** – Secure AES-256 encrypted storage for user passwords.  
-- 🔹 **GetMeAChai (Patreon Clone)** – Implemented Stripe payment integration.  
-- 🔹 **Spotify UI Clone** – Responsive UI built with HTML, CSS, JS & Tailwind.  
+⚡ Tech Arsenal
+🧠 Generative AI
 
----
+OpenAI • Claude • Gemini • Ollama
 
-## 📊 GitHub Stats  
+🧩 AI Frameworks
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-01-star&show_icons=true&theme=dark)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+MCP (Model Context Protocol) • Tambo AI
 
+🖥 Backend
 
----
+Node.js • Express.js • TypeScript • JavaScript
 
-## 📫 Connect With Me  
+🗄 Databases
 
-- 📧 **Email:** shubhamkumar990201@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/shubham-kumar-a04a191a2](https://linkedin.com/in/shubham-kumar-a04a191a2)  
-- 🌍 **Portfolio:** [linktr.ee/shubham.kr02](https://linktr.ee/shubham.kr02)  
-- 💻 **GitHub:** [github.com/shubham-01-star](https://github.com/shubham-01-star)  
+PostgreSQL • MongoDB • MySQL • Redis
 
----
+🚀 DevOps
 
-⭐ *“Code. Learn. Build. Repeat.”* ⭐
+Docker • AWS • Kestra • Motia Framework • CI/CD • n8n
+
+🚀 Flagship Projects
+🛡 OpsGuard — AI SRE Agent
+
+🏆 MotiaHack’25 Winner
+
+Log monitoring & crash detection
+
+AI-suggested codebase fixes (Gemini)
+
+Human-in-the-loop validation layer
+
+Production-ready backend orchestration
+
+⚙️ ApiforgeX — Agentic DevOps Pipeline
+
+Natural Language → Production API
+
+Generates backend APIs
+
+Auto testing + deployment
+
+CI-integrated code review
+
+Built using MCP + Kestra + Node.js
+
+🧠 Cortex — Generative UI Orchestrator
+
+Identity-aware UI generation
+
+On-demand React interface surfacing
+
+Powered by Tambo AI
+
+🔐 PM Gateway — Privacy-first MCP Server
+
+Secure local file indexing
+
+Automatic PII redaction
+
+Context exposure control for AI agents
+
+📧 HirectX Email Mining Engine
+
+Automated resume extraction
+
+AI-based candidate detection
+
+Reduced marketing workload by 40%
+
+💼 Experience
+🏢 Backend Developer — AHOM Technologies (2025 – Present)
+
+Built AI Email Mining & Outreach Automation
+
+Reduced manual work by 40%
+
+Designed scalable microservices (Node.js + TypeORM + MySQL)
+
+Architected REST APIs for Viliyo client
+
+🌍 Open Source Contributor — Quote.Vote
+
+Contributing to text-only social platform
+
+Built with Next.js & GraphQL
